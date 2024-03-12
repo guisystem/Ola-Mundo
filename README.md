@@ -3,4 +3,4 @@
 
  Repositório de teste!
 
- Adicionei essa linha direto do Git.
+ Adicionei essa linha direto do GitHub.
