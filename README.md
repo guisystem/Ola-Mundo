@@ -2,3 +2,5 @@
  Primeiro repositório versionado
 
  Repositório de teste!
+
+ Adicionei essa linha direto do Git.
